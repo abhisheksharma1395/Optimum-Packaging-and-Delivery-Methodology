@@ -32,7 +32,7 @@ The idea is to provide the customer with an option to opt for optimized and sust
 
 ## Demo video
 
-[![Watch the video](https://github.co)
+[![Watch the video](https://vimeo.com/564741421)
 
 ## The architecture
 
@@ -54,7 +54,7 @@ See below for our proposed road map for this solution.
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+You can find a running system to test at [cosmo-OPD](https://enablepackagefree.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html).
 
 ## Built with
 
