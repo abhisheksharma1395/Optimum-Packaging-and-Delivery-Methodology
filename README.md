@@ -54,7 +54,7 @@ See below for our proposed road map for this solution.
 
 ## Live demo
 
-You can find a running system to test at [cosmo-OPD](https://enablepackagefree.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html).
+You can find a running system to test at [cosmo-demo](https://enablepackagefree.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html).
 
 ## Built with
 
