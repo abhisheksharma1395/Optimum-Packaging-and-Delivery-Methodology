@@ -1,0 +1,14 @@
+# Optimum Packaging and Delivery Methodology
+
+E-commerce is an industry that is growing day by day. The pandemic has created boom times for the industry and with that, the amount of waste produced by the packaging of the products too has multiplied.
+
+Once the goods are delivered, this excessive packaging like the air packets, cardboard boxes, bubble wraps, etc.  is discarded and mostly ends up in the landfill, incinerator, or the sea, and the damage done to the environment is huge! One of the biggest environmental challenges is the single-use, non-biodegradable plastic, recycled in a very small percentage, and widely used for packaging.
+
+Multiple simple practices can be followed to help improve the situation. Our idea is to provide the customer with an option of going package less or choosing to return the packaging to the vendor. This can be done by introducing a checkbox during checkout. On selecting this checkbox, the customer will receive the products ordered either directly in the original packaging or the packaging will be picked from the customer in a stipulated amount of time. The parameters like weight and size of the product, the fragility, spillage or privacy, source, and delivery location, etc would be considered as the deciding factors for the type of packaging used for the delivery. This could vary from biodegradable packaging to returning the packaging or using reusable boxes to carry multiple orders together.
+
+The customer will also receive points for choosing the sustainable packaging options which would then be redeemed for the shopping later. This solution would be an all-around winner for the companies, for the woke customers looking to reduce their carbon footprint and the environment. It would also help the companies to reach the goal of transforming into Green Commerce and reducing the harm done to the environment.
+
+The Plastic Waste Management Rules, 2016 require the e-commerce companies to fulfill their responsibilities as the extended producers. According to the PWM Rules, 2016, the onus of collecting the packaging or plastic sachet and pouches are on the Producers, Importers and Brand Owners who introduce the products in the market
+The petitions and pleas filed in the courts along with other researches indicate that the consumers are willing to adopt and adapt to sustainable living and understand the impact single-use plastic and deforestation has on the environment.
+
+With pollution on land and in waters increasing, the time to act and be responsible for our actions is now! It is high time that we as individuals consciously do our bit for the environment and make others aware of the same. We are seeing a surge in many small-scale businesses following the sustainable model, but this needs to be adopted by the industry giants too. One small way to do this is to return the packaging to the company who can then either reuse or dispose of it appropriately.
