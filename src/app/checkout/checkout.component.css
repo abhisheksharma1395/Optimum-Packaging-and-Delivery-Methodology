@@ -1,0 +1,270 @@
+html, body {
+    height: 100vh;
+}
+
+.cosmo {
+    float: right;
+    width: 100px;
+    height: 30px;
+}
+
+.bar {
+    padding: 0.5rem 0.5rem;
+    line-height: 1;
+}
+
+.bg{
+    background-color: lightgrey;
+    width: 100%;
+    height: 90vh;
+}
+
+.border-right{
+    border-right: 1px solid lightgrey  ;
+    font-weight:600;
+    overflow-x: hidden;
+}
+
+.active-tab{
+    border-bottom: 2px solid #ec2e7a;
+    color: #ec2e7a;
+}
+
+.left-align {
+    text-align: left;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    overflow:hidden
+}
+
+.address {
+    font-weight: 300;
+    font-size: xx-small;
+    overflow:hidden;
+    display: inline-block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100px;
+    color: black;
+}
+
+.payment-section{
+    padding-top: 1rem;
+}
+
+.payment-label{
+    font-size: x-small;
+    font-weight: 700;
+    padding-left: 1rem;
+}
+
+.payment-mode {
+    width: 15%;
+    padding-right: 0;
+}
+
+.card-body > div{
+    font-size: x-small;
+    border-bottom: 1px solid whitesmoke;
+    padding: 0.25rem 0 0.25rem 0;
+}
+
+.active-payment, .active-address {
+    border-right: 2px solid #ec2e7a;
+}
+
+.active-address {
+    color: #ec2e7a;
+    font-weight: 700;
+}
+
+.expiry{
+    color: grey;
+}
+
+.credit-card{
+    width: 22%;
+    /* padding: 0 0; */
+}
+
+.save-checkbox-label{
+    font-size: x-small;
+    padding-left: 0.5rem;
+}
+
+.pay-btn{
+    width: 100%;
+    background-color: #ec2e7a;
+    color: white;
+    padding: 0.25rem 0 0.25em 0;
+    border-style: none;
+}
+
+.cvv{
+    float:right;
+}
+
+.cvv-img{
+    float: right;
+    width: 25px;
+    height: 25px;
+}
+
+.card-text-sustainable {
+ font-size: xx-small;
+}
+
+.summary{
+    width: 22%;
+}
+
+.right-align{
+    text-align: right;
+    float:right;
+}
+
+table,tr,td {
+    width: 100%;
+    border: none;
+    font-size: xx-small;
+}
+
+.btn-rm{
+    border-style: none;
+    color: #ec2e7a;
+    background-color: white;
+    font-weight: 600;
+}
+
+.summary-order {
+    color: orangered;
+    font-size: x-small;
+    padding-top: -1rem;
+    margin-top: -1.5rem;
+}
+
+.discount {
+    color: rgb(9, 224, 224);
+}
+
+.float-right {
+    float: right;
+}
+
+.arrow {
+    box-sizing: border-box;
+    height: 0.35rem;
+    width: 0.35rem;
+    border-style: solid;
+    border-color: orangered;
+    border-width: 0px 1px 1px 0px;
+    transform: rotate(45deg);
+    transition: border-width 150ms ease-in-out;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+  }
+
+  .arrow-up {
+    box-sizing: border-box;
+    height: 0.35rem;
+    width: 0.35rem;
+    border-style: solid;
+    border-color: orangered;
+    border-width: 0px 1px 1px 0px;
+    transform: rotate(225deg);
+    transition: border-width 150ms ease-in-out;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+  }
+
+  .summary-order > label {
+      color: #ec2e7a;
+      font-weight: 600;
+  }
+
+  .shipping-addr{
+    float: left;
+    font-weight: 700;
+    font-size: x-small;
+  }
+
+  .change-addr {
+    float: right;
+    color: #ec2e7a;
+    font-weight: 700;
+    font-size: x-small;
+  }
+
+  .addr {
+      font-size: xx-small;
+  }
+
+  .sum-address {
+      background-color: whitesmoke;
+  }
+
+  .grand-total {
+      font-weight: 700;
+  }
+
+  .grand-total > td {
+      width: 50%;
+  }
+
+  .address-option{
+      width: 23%;
+  }
+
+  .btn-edit {
+      font-size: xx-small;
+      width: 30px;
+      border: 1px solid lightgray;
+  }
+
+  .btn-ship{
+    font-size: xx-small;
+    border: 1px solid lightgray;
+    width: 87%;
+    color: white;
+    background-color: #ec2e7a;
+    height: 30px;
+    float: right;
+  }
+
+  .edit-address{
+      padding-top:0;
+      padding-bottom: 0.25rem;
+  }
+
+  .address-card {
+      margin-top: 0.5rem;
+  }
+
+  .bag-edit > div {
+      border-bottom: none;
+      padding-bottom: 0;
+  }
+
+  .p-img{
+    width: 100%;
+    height: 200px;
+    margin-top: 0.5rem;
+}
+
+.address-summary{
+    width: 24%;
+}
+
+.addr-total {
+    padding-top:0;
+    padding-bottom: 0;
+}
+
+.margin-top{
+    margin-top:0.5rem;
+}
+
+.order-success {
+    width: 100%;
+    height: 100vh;
+}
