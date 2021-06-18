@@ -50,7 +50,7 @@ The idea is to provide the customer with an option to opt for optimized and sust
 
 See below for our proposed road map for this solution.
 
-![Roadmap](./Solution_RoadMap.png)
+![Roadmap](./Solution_Roadmap.png)
 
 ## Live demo
 
@@ -58,12 +58,9 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [IBM Cloud Storage](https://www.ibm.com/in-en/cloud/storage) - For hosting Webapp
+- [Angular](https://angular.io/) - The web framework used
+- [Node](https://nodejs.org/en/) - 
 
 
 ## Authors
