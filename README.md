@@ -32,7 +32,7 @@ The idea is to provide the customer with an option to opt for optimized and sust
 
 ## Demo video
 
-[![Watch the video](./video-img.png)](https://vimeo.com/564741421)
+[![Watch the video](./video-img.png)](https://vimeo.com/564752956)
 
 ## The architecture
 
