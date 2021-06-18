@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Submission or project name](#Optimum Packaging and Delivery Methodology)
+- [Submission or project name](#Optimum-Packaging-and-Delivery-Methodology)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
