@@ -59,8 +59,9 @@ You can find a running system to test at [cosmo-demo](https://enablepackagefree.
 ## Built with
 
 - [IBM Cloud Storage](https://www.ibm.com/in-en/cloud/storage) - For hosting Webapp
+- [IBM Tool Chain](https://www.ibm.com/cloud/architecture/toolchains/) - To create pipeline and deploy application
 - [Angular](https://angular.io/) - The web framework used
-- [Node](https://nodejs.org/en/) - 
+- [Node](https://nodejs.org/en/)
 
 
 ## Authors
