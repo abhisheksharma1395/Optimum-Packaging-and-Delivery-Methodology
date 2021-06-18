@@ -1,8 +1,8 @@
-# Optimum Packaging and Delivery Methodology
+# Cosmo-Optimum Packaging and Delivery Methodology
 
 ## Contents
 
-- [Submission or project name](#Optimum-Packaging-and-Delivery-Methodology)
+- [Submission or project name](#Cosmo-Optimum-Packaging-and-Delivery-Methodology)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -12,14 +12,9 @@
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -55,7 +50,7 @@ The idea is to provide the customer with an option to opt for optimized and sust
 
 See below for our proposed road map for this solution.
 
-![Roadmap](./Solution RoadMap.png)
+![Roadmap](./Solution_RoadMap.png)
 
 ## Live demo
 
@@ -73,6 +68,4 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
+![Author](./team.png)
